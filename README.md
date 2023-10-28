@@ -1,9 +1,9 @@
 # Netflix-Movies-and-TV-Shows-Clustering
 
-Problem Description:
+**Problem Description:**
 This project focuses on exploring the Netflix dataset to learn more about the content available on the platform. We have data about movies and TV shows, their details, and where they can be viewed in different countries. By combining this data with external sources like IMDB ratings and Rotten Tomatoes, we can extract valuable information.
 
-Project Goals:
+**Project Goals:**
 Our objectives for this project are as follows:
 
 Data Exploration: We'll clean the data, address missing information, and thoroughly analyze the dataset to find trends, patterns, and connections among various attributes.
@@ -14,10 +14,10 @@ Netflix's Focus: We'll investigate whether Netflix has been emphasizing TV shows
 
 Content Clustering: We'll use text-based features to group similar content, which will help us create a recommendation system based on the content.
 
-Project Summary:
+**Project Summary:**
 Our project's main goal is to analyze the Netflix dataset, which includes data about movies and TV shows available on Netflix up to 2019. Netflix is the world's largest online streaming platform with over 220 million subscribers. By analyzing and clustering this content, we can improve the user experience through personalized recommendations, which could reduce subscriber turnover.
 
-Project Steps:
+**Project Steps:**
 Our project follows these steps:
 
 Handling Missing Data: We'll take care of any missing data in the dataset.
