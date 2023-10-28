@@ -20,16 +20,16 @@ Our project's main goal is to analyze the Netflix dataset, which includes data a
 **Project Steps:**
 Our project follows these steps:
 
-Handling Missing Data: We'll take care of any missing data in the dataset.
+1.) Handling Missing Data: We'll take care of any missing data in the dataset.
 
-Processing Nested Columns: We'll process columns with nested data (like director, cast, and genre) to make the information clear for analysis.
+2.) Processing Nested Columns: We'll process columns with nested data (like director, cast, and genre) to make the information clear for analysis.
 
-Rating Categories: We'll categorize ratings into groups, such as adult, children's, and family-friendly.
+3.) Rating Categories: We'll categorize ratings into groups, such as adult, children's, and family-friendly.
 
-Exploratory Data Analysis: We'll dig deep into the data to uncover valuable insights that can help prevent subscriber churn.
+4.) Exploratory Data Analysis: We'll dig deep into the data to uncover valuable insights that can help prevent subscriber churn.
 
-Creating Clusters: We'll create clusters based on various attributes like director, cast, country, genre, rating, and description. We'll use techniques like TF-IDF vectorization and Principal Component Analysis (PCA) to improve our analysis.
+5.) Creating Clusters: We'll create clusters based on various attributes like director, cast, country, genre, rating, and description. We'll use techniques like TF-IDF vectorization and Principal Component Analysis (PCA) to improve our analysis.
 
-Clustering Algorithms: We'll use clustering algorithms like K-Means and Agglomerative Hierarchical Clustering to create different types of clusters.
+7.) Clustering Algorithms: We'll use clustering algorithms like K-Means and Agglomerative Hierarchical Clustering to create different types of clusters.
 
-Content-Based Recommendations: Finally, we'll develop a content-based recommender system using a cosine similarity matrix. This system will analyze what users have watched and provide personalized recommendations to enhance their experience.
+8.) Content-Based Recommendations: Finally, we'll develop a content-based recommender system using a cosine similarity matrix. This system will analyze what users have watched and provide personalized recommendations to enhance their experience.
