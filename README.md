@@ -1,4 +1,4 @@
-# Netflix-Movies-and-TV-Shows-Clustering
+# Netflix-Movies-and-TV-Shows-EDA- Clustering
 
 **Problem Description:**
 This project focuses on exploring the Netflix dataset to learn more about the content available on the platform. We have data about movies and TV shows, their details, and where they can be viewed in different countries. By combining this data with external sources like IMDB ratings and Rotten Tomatoes, we can extract valuable information.
